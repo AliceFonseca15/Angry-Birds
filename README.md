@@ -7,7 +7,7 @@ como parte da nossa disciplina de Arquitetura de Computadores.
 
 ## JOGO
 ### Tela inicial do jogo <br>
-Ao clicar na tecla "Space"(Espaço) o jogo começa.f <br>
+Ao clicar na tecla "Space"(Espaço) o jogo começa. <br>
 <br>
 ![tela de início](./imgs/tela_inicio.png)
 
